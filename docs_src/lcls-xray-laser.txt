@@ -14,6 +14,10 @@ LCLS-II's superconducting accelerator is built from 37 cryogenic modules. These 
 
 LCLS-II was a multi-year upgrade project that cost roughly $1.1 billion. LCLS-II was developed and built in collaboration with four other U.S. Department of Energy national laboratories: Argonne National Laboratory, Lawrence Berkeley National Laboratory (Berkeley Lab), Fermilab, and Jefferson Lab, along with Cornell University. The vision for the LCLS-II upgrade began in 2010 and culminated in the roughly $1.1 billion project that turned on in 2023.
 
+## Technical Specifications of the Superconducting Linac
+
+LCLS-II's superconducting linac operates at a radio frequency of 1.3 GHz and is fed by an electron source built from two normal-conducting, continuous-wave RF cavities: a 185.7 MHz gun and a 1.3 GHz buncher. The main 1.3 GHz linac is powered by 280 solid-state amplifier sources, while two 185.7 MHz sources power the photocathode electron gun. In its baseline design, LCLS-II fires electron bunches at a maximum rate of 929 kHz and accelerates them to a final energy of 4.0 GeV. A planned RF upgrade can raise the beam current from about 62 microamps to 300 microamps, increasing total beam power from roughly 250 kilowatts to 1,200 kilowatts.
+
 ## What Scientists Use LCLS For
 
 Scientists use LCLS to take crisp snapshots of atomic motions, to watch chemical reactions unfold as they happen, to probe the properties of materials, and to explore fundamental processes inside living things. Because LCLS-II's pulses arrive far more often and are far brighter, researchers can observe over a wider range of energies, capture rapid processes in finer detail, probe delicate samples without destroying them, and collect much more data in much less time than with the original LCLS.

@@ -1,0 +1,15 @@
+## What KIPAC Is
+
+The Kavli Institute for Particle Astrophysics and Cosmology, known as KIPAC, is an independent laboratory of Stanford University founded in 2003. KIPAC is endowed by the Kavli Foundation and funded additionally by Stanford University and the U.S. Department of Energy. KIPAC has space both on the Stanford campus, including the Fred Kavli Building, and at SLAC National Accelerator Laboratory, and it includes more than 130 researchers as members, associates, or affiliates.
+
+## Research Focus
+
+KIPAC's research focuses on cosmology, high-energy astrophysics, dark matter, and dark energy, seeking answers to fundamental questions about the origin, structure, and composition of the cosmos. KIPAC scientists study the largest features of the universe, including galaxy clusters and the cosmic microwave background radiation left over from the Big Bang, using these observations to gain insight into the evolution of the universe and the nature of dark matter and dark energy.
+
+## Connection to Fermi-LAT and Rubin Observatory
+
+KIPAC scientists are closely tied to two of SLAC's major astrophysics instruments: the Fermi Gamma-ray Space Telescope's Large Area Telescope, which KIPAC lists among its research projects, and the NSF-DOE Vera C. Rubin Observatory, whose LSST Camera was built at SLAC. Both instruments generate the large, high-cadence datasets that are central to KIPAC's cosmology and dark-matter research programs.
+
+## Center for Decoding the Universe
+
+KIPAC and Stanford Data Science jointly established the Center for Decoding the Universe, an interdisciplinary center that brings together researchers from across Stanford and SLAC to collaborate on extracting physical insight from complex, multi-modal datasets and large numerical simulations. The center aims to pioneer new approaches to unlocking the physics of the universe using the vast data streams produced by facilities like Fermi-LAT and Rubin Observatory.

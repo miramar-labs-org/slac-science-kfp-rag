@@ -1,0 +1,15 @@
+## The J/psi Particle Discovery (1976 Nobel Prize)
+
+In November 1974, in an event that became known as the "November Revolution" in particle physics, two rival research teams independently announced the discovery of the same new particle: physicist Burton Richter's team at SLAC and Samuel Chao Chung Ting's team at Brookhaven National Laboratory. SLAC's team found the particle, later named J/psi, by colliding electrons with their antimatter opposites, positrons, in SLAC's SPEAR storage ring. The J/psi particle consists of a paired charm quark and anti-charm quark. Burton Richter and Samuel Ting shared the 1976 Nobel Prize in Physics for this discovery.
+
+## The Tau Lepton Discovery (1995 Nobel Prize)
+
+In a series of experiments from 1974 to 1977 using a detector capable of identifying much shorter-lived particles, SLAC physicist Martin Perl and his colleagues discovered the tau lepton, a heavy relative of the electron and the first member of a third family of fundamental particles. The tau lepton has about 3,500 times the mass of the electron, and Perl's team found it in collisions between electrons and positrons at SLAC. Martin Perl received the 1995 Nobel Prize in Physics for the discovery of the tau lepton.
+
+## The BaBar CP-Violation Result (2008 Nobel Prize)
+
+BaBar, SLAC's detector for the PEP-II asymmetric B Factory, published its observation of CP violation in the neutral B meson system based on a sample of about 32 million B0 and anti-B0 meson pairs. This body of CP-violation work, to which BaBar's results contributed, is part of what led theorists Makoto Kobayashi and Toshihide Maskawa to share the 2008 Nobel Prize in Physics for explaining the origin of CP violation.
+
+## SLAC's Nobel Prize Pattern
+
+Across these three prizes, SLAC's Nobel-winning physics shares a common thread: each discovery came from colliding electrons and positrons in one of SLAC's storage rings — first SPEAR for the J/psi particle and tau lepton, then PEP-II for the B-meson CP-violation studies that underpinned BaBar's contribution to the 2008 prize.

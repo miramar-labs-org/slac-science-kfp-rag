@@ -1,0 +1,15 @@
+## What the Fermi LAT Is
+
+The Large Area Telescope, known as the LAT, is the principal scientific instrument on NASA's Fermi Gamma-ray Space Telescope, which was originally called the Gamma-ray Large Area Space Telescope (GLAST) before launch. The Fermi spacecraft was launched into a near-earth orbit on June 11, 2008. The LAT was conceived of and assembled at the Department of Energy's SLAC National Accelerator Laboratory.
+
+## Technical Specifications
+
+The LAT is an imaging high-energy gamma-ray telescope covering an energy range from about 20 MeV to more than 300 GeV. It is a pair-production telescope with a large effective area of about 8,000 square centimeters and a wide field of view of 2.4 steradians, covering about 20% of the sky at any moment. The LAT scans continuously and covers the entire sky every three hours.
+
+## Science Program
+
+The LAT's science program includes mapping the gamma-ray sky and its background radiation, investigating blazars and other active galactic nuclei, studying pulsars, tracking gamma-ray bursts, exploring the nature of dark matter, and examining particle acceleration in novae. In 2017, the LAT instrument recorded its billionth detected gamma ray.
+
+## Data Processing at SLAC
+
+LAT instrument data processing is the most complex and CPU-intensive of any operating NASA astrophysics mission. It is accomplished using SLAC's high-throughput computing facility, which provides approximately 5 petabytes of data storage along with dozens of supporting servers and web applications. The LAT was built by an international collaboration with contributions from space agencies, high-energy particle physics institutes, and universities in France, Italy, Japan, Sweden, and the United States. The LAT scientific collaboration today includes more than 400 scientists and students at more than 90 universities and laboratories across 12 countries.

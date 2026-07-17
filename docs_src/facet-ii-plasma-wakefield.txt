@@ -1,0 +1,15 @@
+## What FACET-II Is
+
+FACET-II is a U.S. Department of Energy Office of Science user facility at SLAC National Accelerator Laboratory that uses part of SLAC's two-mile-long linear accelerator to generate high-density electron beams for accelerator science research and development. FACET-II is an upgrade to the original FACET facility, which operated from 2011 to 2016; FACET-II has been operating since 2020.
+
+## Beam Specifications
+
+FACET-II provides 10 GeV electron beams with micron-radian normalized emittance and peak currents exceeding 100 kiloamps. FACET-II is the only facility in the world capable of providing 10 GeV electron beams in support of accelerator science research and development.
+
+## Plasma Wakefield Acceleration
+
+FACET-II researchers send a bunch of very energetic particles through a hot ionized gas, or plasma, creating a plasma wake that a trailing bunch of particles can "surf" on to gain energy. This approach, called plasma wakefield acceleration, has the potential to dramatically shrink the size and cost of particle accelerators. Research at SLAC has demonstrated that a plasma can accelerate electrons to 1,000 times greater energies over a given distance than current accelerator technology can manage.
+
+## Future Upgrades
+
+Phased upgrades to FACET-II are expected to provide high-intensity positron bunches, a capability unique in the world, letting researchers experimentally investigate the optimal technique for high-gradient positron acceleration in plasma — a key open problem for any future plasma-based collider design.

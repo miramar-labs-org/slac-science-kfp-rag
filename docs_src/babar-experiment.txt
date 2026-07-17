@@ -14,6 +14,10 @@ PEP-II and the BaBar detector were designed and built in under six years. BaBar 
 
 By October 2000, PEP-II had reached its design luminosity of 3 x 10^33 per square centimeter per second. Less than a year after reaching that luminosity, BaBar published its observation of CP violation in the B0 meson system, based on a sample of about 32 million B0 and anti-B0 meson pairs. This class of CP-violation results, to which BaBar contributed, is part of the body of work that led Makoto Kobayashi and Toshihide Maskawa to share the 2008 Nobel Prize in Physics.
 
+## The PEP-II Collider and BaBar Detector Design
+
+PEP-II was a two-ring, high-luminosity, asymmetric electron-positron collider built in the tunnel of the earlier PEP collider at SLAC, and it was constructed through a collaboration between SLAC, Lawrence Berkeley National Laboratory, and Lawrence Livermore National Laboratory. PEP-II collided its beams at the Upsilon(4S) resonance to produce B mesons for BaBar to study. The BaBar detector itself was built from several layers: a silicon vertex tracker and a cylindrical wire drift chamber to measure charged-particle tracks, a calorimeter made of cesium iodide (CsI) crystals to detect electrons and photons, a superconducting magnet coil, and an instrumented steel flux return containing resistive plate chambers to identify muons and neutral hadrons.
+
 ## A Later BaBar Discovery
 
 In 2008, BaBar physicists detected the eta_b particle. The eta_b particle is the lowest-energy particle in the bottomonium family of particles. Physicists had been searching for the eta_b particle for more than 30 years before BaBar finally detected it in 2008.

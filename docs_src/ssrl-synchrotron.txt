@@ -14,6 +14,10 @@ SSRL has 25 beamlines and 31 end-stations in total. Of those 25 beamlines, 8 are
 
 SSRL runs 24 hours a day, 7 days a week, for about nine months out of every year. The remaining months of the year are used for major facility maintenance and upgrades to SSRL's beamlines and storage ring.
 
+## Structural Molecular Biology at SSRL
+
+SSRL's Structural Molecular Biology group operates 7 beamlines: 4 dedicated to macromolecular protein crystallography, 2 to x-ray absorption spectroscopy, and 1 to small-angle x-ray scattering. SSRL's beamline robot can mount and screen up to 288 frozen protein crystals for diffraction quality in a matter of hours, a high-throughput capability that has made SSRL a major resource for structural biology. SSRL scientists have also used the facility for battery materials research; in one study, instigating atomic disorder in lithium-ion battery cathode materials produced a version that retained nearly 93% of the battery's energy capacity after 500 charge cycles.
+
 ## Who Uses SSRL and What For
 
 SSRL's users span astronomers, biologists, chemical engineers, chemists, electrical engineers, environmental scientists, geologists, materials scientists, and physicists. SSRL's extremely bright X-rays let researchers study matter down to the atomic and molecular level, driving advances in energy production, environmental remediation, nanotechnology, new materials, and biology and medicine. Since SSRL began operating in 1974, its users have published more than 16,600 papers, and about 25% of those papers appeared in high-impact journals.

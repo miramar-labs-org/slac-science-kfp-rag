@@ -10,6 +10,10 @@ The LSST Camera was completed at SLAC National Accelerator Laboratory in April 2
 
 SLAC's involvement with Rubin Observatory did not end once the LSST Camera was built and shipped. SLAC hosts the U.S. Data Facility for Rubin Observatory data, making the observatory's data available to the broader scientific community. SLAC also cooperatively operates Rubin Observatory together with NSF's NOIRLab, sharing operational responsibility for the observatory going forward.
 
+## Camera Specifications
+
+The LSST Camera's sensor has a resolution of 3,200 megapixels, roughly equivalent to 260 modern cell-phone camera sensors combined. Its focal plane is built from 189 separate charge-coupled devices (CCDs), each capturing 16 megapixels. The camera weighs over 3,000 kilograms and is roughly the size of a small car. A single 3,200-megapixel image captures an area of sky equivalent to 40 full moons, and displaying one such image at full resolution would require 378 4K ultra-high-definition TV screens.
+
 ## What the Observatory Does
 
 The Rubin Observatory's LSST Camera is designed to capture a moving picture of the cosmos. Instead of taking a single static image, the LSST Camera repeatedly images the visible night sky over and over, which lets astronomers track how the sky changes over time. This repeated, wide-field imaging approach is the basis of the Legacy Survey of Space and Time, or LSST, that gives the camera its name.
