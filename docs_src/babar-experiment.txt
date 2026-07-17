@@ -1,0 +1,19 @@
+## What BaBar Was
+
+BaBar was a particle physics experiment at SLAC National Accelerator Laboratory, run in conjunction with the PEP-II asymmetric electron-positron collider. BaBar was an international collaboration of more than 500 physicists and engineers, making it one of the largest particle physics collaborations of its era.
+
+## Origin of the Name BaBar
+
+The detector collaboration for the PEP-II collider held its inaugural meeting at SLAC at the end of 1993. By May 1994, the collaboration had chosen the name BaBar, a name that references its primary scientific goal: studying CP violation in the neutral B meson and anti-B meson system, written as B-B-bar.
+
+## BaBar's Timeline
+
+PEP-II and the BaBar detector were designed and built in under six years. BaBar recorded its first collision events on May 26, 1999. BaBar continued collecting new data until it stopped in 2008, after roughly a ten-year run, though physicists have continued analyzing the data BaBar collected for years afterward.
+
+## BaBar's Key Scientific Result
+
+By October 2000, PEP-II had reached its design luminosity of 3 x 10^33 per square centimeter per second. Less than a year after reaching that luminosity, BaBar published its observation of CP violation in the B0 meson system, based on a sample of about 32 million B0 and anti-B0 meson pairs. This class of CP-violation results, to which BaBar contributed, is part of the body of work that led Makoto Kobayashi and Toshihide Maskawa to share the 2008 Nobel Prize in Physics.
+
+## A Later BaBar Discovery
+
+In 2008, BaBar physicists detected the eta_b particle. The eta_b particle is the lowest-energy particle in the bottomonium family of particles. Physicists had been searching for the eta_b particle for more than 30 years before BaBar finally detected it in 2008.

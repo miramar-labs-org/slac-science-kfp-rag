@@ -1,0 +1,19 @@
+## What LCLS-II Is
+
+LCLS, the Linac Coherent Light Source, is SLAC National Accelerator Laboratory's X-ray free-electron laser facility. LCLS was upgraded into LCLS-II, which began operating and fired its first X-ray laser pulses in 2023. Unlike the original LCLS, LCLS-II adds a new superconducting accelerator that occupies about one-third of SLAC's original two-mile-long linear accelerator tunnel. This superconducting accelerator lets LCLS-II produce an almost continuous X-ray laser beam instead of the widely spaced discrete pulses the original LCLS produced. LCLS-II is described as a world-class discovery machine and a transformative upgrade for energy science.
+
+## Brightness and Pulse Rate
+
+LCLS-II delivers X-ray laser beams that are 10,000 times brighter than the original LCLS. LCLS-II can also fire X-ray pulses up to a million times per second, compared to about 120 pulses per second for the original LCLS. This combination of being 10,000 times brighter and firing up to a million pulses per second is what makes LCLS-II so much more powerful than its predecessor. The much higher pulse rate and brightness let scientists gather far more data in far less time than was possible before.
+
+## The Superconducting Accelerator
+
+LCLS-II's superconducting accelerator is built from 37 cryogenic modules. These 37 cryomodules are cooled to about minus 456 degrees Fahrenheit, a temperature colder than outer space. Besides the superconducting accelerator itself, LCLS-II required a new electron source, a large cryogenic cooling plant to produce the refrigerant needed to keep the 37 modules that cold, and two new undulators to generate the X-rays.
+
+## Cost and Collaboration
+
+LCLS-II was a multi-year upgrade project that cost roughly $1.1 billion. LCLS-II was developed and built in collaboration with four other U.S. Department of Energy national laboratories: Argonne National Laboratory, Lawrence Berkeley National Laboratory (Berkeley Lab), Fermilab, and Jefferson Lab, along with Cornell University. The vision for the LCLS-II upgrade began in 2010 and culminated in the roughly $1.1 billion project that turned on in 2023.
+
+## What Scientists Use LCLS For
+
+Scientists use LCLS to take crisp snapshots of atomic motions, to watch chemical reactions unfold as they happen, to probe the properties of materials, and to explore fundamental processes inside living things. Because LCLS-II's pulses arrive far more often and are far brighter, researchers can observe over a wider range of energies, capture rapid processes in finer detail, probe delicate samples without destroying them, and collect much more data in much less time than with the original LCLS.

@@ -1,0 +1,19 @@
+## What SSRL Is
+
+The Stanford Synchrotron Radiation Lightsource, known as SSRL, is a synchrotron X-ray facility that is a directorate of SLAC National Accelerator Laboratory. SSRL was built in 1974 to make use of the intense X-ray beams produced by SPEAR, a storage ring that was originally built for particle physics. SSRL is an Office of Science User Facility operated for the U.S. Department of Energy by Stanford University. Synchrotron radiation is the name given to the X-rays and light produced by electrons circulating in a storage ring at nearly the speed of light.
+
+## The SPEAR3 Storage Ring
+
+SSRL's light source is SPEAR3, a 3-GeV, high-brightness, third-generation storage ring. SPEAR3 was upgraded in 2004 from the earlier SPEAR ring. SPEAR3 operates at 500 milliamps of stored current in top-off mode, which gives it high reliability and low emittance, meaning a tightly focused, stable electron beam.
+
+## Beamlines and End-Stations
+
+SSRL has 25 beamlines and 31 end-stations in total. Of those 25 beamlines, 8 are independently operating bending-magnet beamlines and 16 are independently operating insertion-device beamlines. Each beamline and end-station lets researchers run different kinds of X-ray and ultraviolet experiments at SSRL at the same time.
+
+## Operating Schedule
+
+SSRL runs 24 hours a day, 7 days a week, for about nine months out of every year. The remaining months of the year are used for major facility maintenance and upgrades to SSRL's beamlines and storage ring.
+
+## Who Uses SSRL and What For
+
+SSRL's users span astronomers, biologists, chemical engineers, chemists, electrical engineers, environmental scientists, geologists, materials scientists, and physicists. SSRL's extremely bright X-rays let researchers study matter down to the atomic and molecular level, driving advances in energy production, environmental remediation, nanotechnology, new materials, and biology and medicine. Since SSRL began operating in 1974, its users have published more than 16,600 papers, and about 25% of those papers appeared in high-impact journals.

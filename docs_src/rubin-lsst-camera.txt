@@ -1,0 +1,15 @@
+## What the LSST Camera Is
+
+The LSST Camera is the largest digital camera ever built. SLAC National Accelerator Laboratory led the construction of the LSST Camera, which serves as the heart of the NSF-DOE Vera C. Rubin Observatory. Because SLAC led its construction, the LSST Camera is closely associated with SLAC even though the finished camera itself lives at the Rubin Observatory in Chile, not at SLAC.
+
+## Completion and Shipment to Chile
+
+The LSST Camera was completed at SLAC National Accelerator Laboratory in April 2024. After the camera was finished being assembled and tested in the cleanroom at SLAC, the SLAC team transported it in a carefully coordinated effort to the Rubin Observatory site in Chile, where it was installed on the telescope. This transport of the completed LSST Camera from SLAC to the Rubin Observatory in Chile was a major logistical undertaking given the camera's size.
+
+## SLAC's Ongoing Role in Rubin Observatory
+
+SLAC's involvement with Rubin Observatory did not end once the LSST Camera was built and shipped. SLAC hosts the U.S. Data Facility for Rubin Observatory data, making the observatory's data available to the broader scientific community. SLAC also cooperatively operates Rubin Observatory together with NSF's NOIRLab, sharing operational responsibility for the observatory going forward.
+
+## What the Observatory Does
+
+The Rubin Observatory's LSST Camera is designed to capture a moving picture of the cosmos. Instead of taking a single static image, the LSST Camera repeatedly images the visible night sky over and over, which lets astronomers track how the sky changes over time. This repeated, wide-field imaging approach is the basis of the Legacy Survey of Space and Time, or LSST, that gives the camera its name.

@@ -1,0 +1,19 @@
+## What the Genesis Mission Is
+
+The Genesis Mission is a U.S. Department of Energy initiative announced in late 2025 to accelerate scientific and technological discovery using artificial intelligence across the DOE national laboratory complex. The Genesis Mission's goal is to use AI to tackle the nation's most complex science and technology challenges.
+
+## SLAC's Role in the Genesis Mission
+
+When the Department of Energy announced the Genesis Mission, researchers at SLAC National Accelerator Laboratory were already positioned to join the national effort. SLAC researchers are building AI tools meant to address the entire scientific discovery pipeline, turning raw data into insights by connecting SLAC's instruments to computing resources across the national laboratory system.
+
+## SLAC's Data Assets
+
+SLAC hosts two of the biggest scientific data producers on Earth: the Linac Coherent Light Source, known as LCLS, and the NSF-DOE Vera C. Rubin Observatory. Both LCLS and the Rubin Observatory collect data at speeds and volumes that humans cannot process in real time on their own, which is a major reason AI-driven analysis is central to how SLAC contributes to the Genesis Mission.
+
+## The ISAAC Project
+
+SLAC is leading a Genesis Mission project called ISAAC. ISAAC connects complementary data from light sources and neutron facilities across the country with theory and scientific literature. The goal of the ISAAC project is to advance the design of catalysts, which are essential to modern manufacturing.
+
+## Genesis Mission Funding
+
+In March 2026, the Department of Energy issued a Request for Application under the Genesis Mission with $293.76 million in anticipated total funding. That March 2026 funding call solicited project proposals across 21 topic areas, ranging from advanced manufacturing and industrial productivity to energy and nuclear physics.
